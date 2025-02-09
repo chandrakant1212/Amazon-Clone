@@ -1,6 +1,3 @@
-Here is an updated README.md file for your Amazon-Clone repository:
-
-```markdown
 # Amazon-Clone
 
 This project is an Amazon clone built using HTML and CSS. It aims to replicate the user interface and some functionalities of Amazon's website.
@@ -53,6 +50,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Chandrakant - [Your Email](thechandrakant12@gmail.com)
 
 Project Link: [https://github.com/chandrakant1212/Amazon-Clone](https://github.com/chandrakant1212/Amazon-Clone)
-```
-
-You can update your README.md file with this content to provide a comprehensive overview of your project.
